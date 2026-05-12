@@ -1,22 +1,15 @@
-# SGD213 Client Requirements Specification 
+# SGD213 Assignment Two - FPS Game Preparation
 
-Welcome! If you don't know what you are doing here, jump over to the [Task 2](Task2.md) page for help.
+# Assignment Task:
 
-Delete out all of the useless stuff in your Wiki whenever you like (eg. the Old Structure stuff below). Don't delete important stuff though!
+“Greetings, I’m Daniell, an ex-dev of Bungie from Halo 2. I’m looking for a FPS template that I can use for my classes. I’m stapped on time and need to offload this to another team. Looking for a standard Doom, Halo 1-2, Quake, or Duke Nukem-style FPS. Need some basic enemy AI that walks around and looks at the player when in range (They don’t have to shoot back). The player character needs to have 2 guns they can change, a grenade, and movement.”
 
-## Introduction
-This wiki discusses the client requirements for the <PROJECT_NAME> project.
-This project is being completed by <TEAM_NAME> for <CLIENT_NAME>.
-The handover date for the project is the XXth of YY. Add something
+# Assigned Tasks for Members:
 
-## Table of Contents
+# _GROUP MEMBER AND ASSIGNED TASKS_
+Kiyah: Player Movement, Player Camera, Health,Pickups
+Rueban: First Person Info, Health, Amo, Menus, X2 Guns, X1 Grenade
+Samuele: Enemy 2D Sprite, Look at Player, Takes Damage
+(OPTIONAL): Fire back at player, Death/Animation
 
-These are the two main areas of the assessment. Make a change!
 
-[//]: # (You can link to other pages in your wiki, or you can keep it inline)
-* [Proposal](Proposal/index.md)
-* [Architecture](Architecture/index.md)
-
-If you would like to see how the structure used to look for more inspiration on areas to consider, have a look at the old structure below.
-
-* [Old Structure](Archive/index.md)
